@@ -1,0 +1,104 @@
+#thumb{
+    width: 1920px;
+    height: 960px;
+    padding: 120px 320px 120px 320px;
+    background: #69B99D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#projeto{
+    width: 1380px;
+    height: 820px;
+    background: #FFFFFF;
+    
+}
+
+#header{
+    width: 1036.95px;
+    height: 23px;
+    margin: 54px 180px;
+    font-size: 25px;
+    display: flex;
+    
+    
+}
+
+#logo{
+    
+    color: #89C5CC;
+    display: inline-block;
+    display: flex;
+    font-size: 25px;
+    padding-right: 600px;
+
+}
+
+.navdiv{
+    width: 273.25px;
+    height: 23px;
+    display: inline-block;
+    display: flex;
+    
+}
+
+.feature{
+    margin-left: 60px;
+    color: #7D7987;
+}
+
+#hero{
+    width: 1040px;
+    height: 620.21px;
+    margin-left: 180px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#left{
+    width: 580px;
+    height: 515.21px;
+
+}
+
+#fitness-jump{
+    width: 580px;
+    height: 515.21px;
+    padding-right: 40px;
+   
+}
+
+#para1{
+    font-family: Mulish;
+    font-size: 48px;
+
+}
+
+#para2{
+    font-family: Mulish;
+    font-size: 25px;
+    color:#7D7987;
+
+}
+
+#button{
+    width: 169px;
+    height:56px;
+    padding: 14px 32px 15px 32px;
+    margin-top: 20px;
+    border-radius: 4px 4px 4px 4px;
+    background: #69B99D;
+    font-size: 16px;
+    color: #FFFFFF;
+    align-items: center;
+}
+
+#footer{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
